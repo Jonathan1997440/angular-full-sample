@@ -61,7 +61,7 @@ Full sample application built with Angular 4 that follows all steps of [Angular 
   - [Documentation](#gocumentation)
 
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- END doctoc generated TOC please keep comment here to allow auto upda te -->
 
 # Get the Code
 ```
