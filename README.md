@@ -80,7 +80,7 @@ npm start
 
 ## Ahead of Time (AoT) Compilation 
 
-Runs the Angular AoT compiler, rollup, uglify for an optimized bundle, then launches the app
+Runs the Angular AoT compiler, rollup, uglify for an optimized bundle, then launches the a pp
 
 ```
 ng build --aot
