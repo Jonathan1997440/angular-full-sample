@@ -246,7 +246,7 @@ The icon should be stored in the 'assets/images/flags' folder to be displayed co
 ![Demo app translation](https://github.com/yduartep/angular-full-sample/blob/master/documentation/translate-demo.gif)
 
 ### iv. How to define new language
-1. Add new json file in the folder 'assets/i18n' and copy the content from other json file already defined. Example: `assets/i18n/fr.json`
+1. Add new json file in the folder 'assets/i18n' and copy the content from other jso n file already defined. Example: `assets/i18n/fr.json`
 2. Translate all the properties of the new file 'fr.json'.
 3. Add new entry in the json file 'assets/data/languages.json':
    ```
