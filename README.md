@@ -122,7 +122,7 @@ ng build --aot
    ```
    [{ "title": "Heroes", "action": "/heroes", "icon": "fa-flash"}, ... ]
    ```
-6. Add the new route /heroes to the main routes defined in app-routing.module:
+6. Add the new route /heroes to the main routes defined in app-routing. module:
    ```
    const routes: Routes = [..., {path: 'heroes', loadChildren: 'app/heroes/heroes.module#HeroesModule', canActivate: [AuthGuard]},...];
    ```
