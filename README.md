@@ -285,7 +285,7 @@ More Info:
 - https://github.com/marak/Faker.js/
 
 ## 5. Bootstrap and Font-awsone integration
-The application has already installed the library 'font-awesome' and 'bootstrap', so you can create new responsive components with a pack of pre-defined icons. The application also incorporate the library 'ngx-bootstrap' that contains many modules like accordion, alerts, datepicker, progressbar, etc, that could be imported separately in the case you need it. See how to use it from http://valor-software.com/ngx-bootstrap/#/.
+The application has already installed the library 'font-awesome' and 'boots trap', so you can create new responsive components with a pack of pre-defined icons. The application also incorporate the library 'ngx-bootstrap' that contains many modules like accordion, alerts, datepicker, progressbar, etc, that could be imported separately in the case you need it. See how to use it from http://valor-software.com/ngx-bootstrap/#/.
 
 ## 6. Dynamic nav bar
 The application contains a 'nav' component in the core module that could be initialized in two ways:
