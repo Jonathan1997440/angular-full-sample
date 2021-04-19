@@ -72,7 +72,7 @@ npm i
 
 ## Just in Time (JiT) Compilation
 
-Runs the TypeScript compiler and launches the app
+Runs the TypeScript compiler and la unches the app
 
 ```
 npm start
