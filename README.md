@@ -2,7 +2,7 @@
 
 # Getting Started
 
-Full sample application built with Angular 4 that fol lows all steps of [Angular Style Guide](https://angular.io/guide/styleguide). Include:
+Full sample application built with Angular 4 t hat fol lows all steps of [Angular Style Guide](https://angular.io/guide/styleguide). Include:
 - **Lazy loading** of modules.
 - **Ngrx** integration using store / effects / selectors.
 - Use of **Service Worker** on production environment for HTTP caching.
