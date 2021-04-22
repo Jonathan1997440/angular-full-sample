@@ -92,7 +92,7 @@ ng build --aot
 1. Install agular-cli gl obally: `npm install -g @angular/cli`
 2. Create new module from the root of the app using command: `ng g module heroes`
 3. Create new routing module in the folder of the module created before: `ng g module heroes/heroes-routing`
-   - Define the routes and import them into the module as child routes: 
+   - Define the routes and import them into the module as child ro utes: 
       ```
       export const heroesRoutes: Routes = <Routes>[{
         path: '',
